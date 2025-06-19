@@ -22,7 +22,7 @@ You can visit the live site from [this link](https://stately-cupcake-6a2406.netl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Kirtan220/SpendBillGatesMoney.git
+https://github.com/Kirtan220/SpendBillGatesMoney.git
 ```
 
 2. Navigate into the project directory:
